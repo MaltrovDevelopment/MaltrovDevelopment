@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaltrovDevelopment
+- 👀 I’m interested in philosophy and coding obviously
+- 🌱 I’m currently learning Unity C#
+- 📫 You can reach me at my instagram page maltrov_development
